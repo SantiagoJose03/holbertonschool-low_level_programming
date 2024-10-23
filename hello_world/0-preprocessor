@@ -1,6 +1,2 @@
 #!/bin/bash
-#include <stdio.h>
-int main(entry point)
-{
-    return(0);
-/c/$ export CFILE=main.c}
+gcc -E $CFILE -0 c
