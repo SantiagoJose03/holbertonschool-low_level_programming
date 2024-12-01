@@ -1,8 +1,3 @@
-
-Here’s the program that prints the lowercase alphabet in reverse using only putchar twice:
-
-c
-Copy code
 #include <stdio.h>
 
 /**
